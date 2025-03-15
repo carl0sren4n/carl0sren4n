@@ -91,22 +91,15 @@ Me chamo Carlos Renan Silveira, tenho 22 anos e sou natural de Manaus. Atualment
 
 ### 📊 Estatísticas
 
-<div style="text-align: center;" align="center">
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="190" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=carl0sren4n&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
-  />
+### 📊 Estatísticas
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="190" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=carl0sren4n&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-</div>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=carl0sren4n&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" height="200"/>
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carl0sren4n&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" height="200"/>
+    </td>
+  </tr>
+</table>
