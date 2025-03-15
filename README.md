@@ -91,8 +91,6 @@ Me chamo Carlos Renan Silveira, tenho 22 anos e sou natural de Manaus. Atualment
 
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
-
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="top">
