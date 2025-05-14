@@ -2,7 +2,7 @@
 
 **`Desenvolvendo...`**
 
-Me chamo Carlos Renan, tenho 22 anos e sou natural de Manaus. Atualmente estou cursando técnico em informática no IFAM. Sou entusiasta por tecnologia.
+Me chamo Carlos Renan, tenho 22 anos e sou natural de Manaus. Atualmente estou cursando técnico em informática no IFAM e ADS na Wynden. Sou entusiasta por tecnologia.
 
 ---
 
